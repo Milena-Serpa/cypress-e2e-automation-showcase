@@ -1,5 +1,6 @@
 # Dependencies (Never upload this folder)
 node_modules/
+package-lock.json
 
 # Logs and debug files
 npm-debug.log*

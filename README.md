@@ -5,6 +5,8 @@ This project showcases a professional-grade automated testing suite for an E-com
 ## 🚀 Overview
 The goal is to ensure the stability of the most critical user journey: the **Purchase Flow**. By using modern automation patterns, the suite provides fast feedback on the application's health.
 
+![Project Demo](./assets/cypress-showcase.gif)
+
 ## 🛠 Tech Stack
 - **Framework:** [Cypress](https://www.cypress.io/)
 - **Design Pattern:** Page Object Model (POM)

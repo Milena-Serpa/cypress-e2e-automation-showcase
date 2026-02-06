@@ -4,12 +4,6 @@ import LoginPage from '../Pages/loginPage.js'
 const loginPage = new LoginPage()
 
 describe('Login Saucedemo Tests', () => {  
-
-//  beforeEach(() => {
-//    loginPage.accessLoginPage()   
-//  })
-
-  
   it('login sucessfull', () => {
     loginPage.accessLoginPage(),
     loginPage.loginWithAnyUser(userData.userSuccessfull.username, userData.userSuccessfull.password)

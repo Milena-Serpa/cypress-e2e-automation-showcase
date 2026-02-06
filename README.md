@@ -21,3 +21,9 @@ The goal is to ensure the stability of the most critical user journey: the **Pur
 │   │   └── commands.js    # Custom global commands
 ├── STRATEGY.md            # Technical reasoning and planning
 └── cypress.config.js      # Framework configuration
+
+## 🚀 How to Run
+1. Clone the repo: `git clone https://github.com/YOUR_USER/repo-name.git`
+2. Install dependencies: `npm install`
+3. Run tests in headless mode: `npx playwright test`
+4. To see the report: `npx playwright show-report`

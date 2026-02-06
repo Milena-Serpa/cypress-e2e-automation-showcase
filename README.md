@@ -22,7 +22,8 @@ The goal is to ensure the stability of the most critical user journey: the **Pur
 │   │   ├── pages/         # Page Objects (Selectors & Methods)
 │   │   └── commands.js    # Custom global commands
 ├── STRATEGY.md            # Technical reasoning and planning
-└── cypress.config.js      # Framework configuration
+└── cypress.config.js      # Framework configuration ```
+
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/YOUR_USER/repo-name.git`
